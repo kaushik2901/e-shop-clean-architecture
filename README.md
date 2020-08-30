@@ -1,1 +1,1 @@
-# e-shop-clean-architecture
+# e-shop-clean-architecture (1.0.0)

@@ -1,7 +1,7 @@
 {
   "name": "e-shop-clean-architecture",
   "version": "1.0.0",
-  "description": "E commerce project with practical clean architecture implementation",
+  "description": "E-commerce project with practical clean architecture implementation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,10 +13,9 @@
   "keywords": [
     "eshop",
     "ecommerce",
-    "clean-architecture",
-    "node.js"
+    "clean-architecture"
   ],
-  "author": "Kaushik Jadav",
+  "author": "Kaushik Jadav <kaushikjadav602@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kaushik2901/e-shop-clean-architecture/issues"
