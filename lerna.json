@@ -1,6 +1,10 @@
 {
   "packages": [
-    "packages/*"
+    "eshop.api",
+    "eshop.application",
+    "eshop.domain",
+    "eshop.infrastructure",
+    "eshop.web"
   ],
   "npmClient": "yarn",
   "version": "0.0.1"

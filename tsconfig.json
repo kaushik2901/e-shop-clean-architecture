@@ -12,10 +12,7 @@
         "lib": [
             "es6"
         ],
-        "baseUrl": "./packages",
-        "paths": {
-            "eshop.domain": ["eshop.domain/lib"]
-        }
+        "baseUrl": "./",
     },
     "exclude": [
         "node_modules",
