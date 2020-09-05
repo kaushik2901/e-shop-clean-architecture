@@ -22,7 +22,8 @@
     "url": "git+https://github.com/kaushik2901/e-shop-clean-architecture.git"
   },
   "scripts": {
-    "start": "tsc && node lib/index.js",
+    "start": "lerna run tsc && node lib/index.js",
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
