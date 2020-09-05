@@ -14,9 +14,7 @@
         ],
         "baseUrl": "./packages",
         "paths": {
-            "@eshop.domain": ["eshop.domain/src"],
-            "@eshop.application": ["eshop.application/src"],
-            "@eshop.infrastructure": ["eshop.infrastructure/src"]
+            "eshop.domain": ["eshop.domain/lib"]
         }
     },
     "exclude": [

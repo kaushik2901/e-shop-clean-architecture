@@ -8,7 +8,8 @@
   "author": "kaushik2901 <kaushikjadav602@gmail.com>",
   "homepage": "https://github.com/kaushik2901/e-shop-clean-architecture#readme",
   "license": "ISC",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
