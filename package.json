@@ -1,9 +1,7 @@
 {
-  "name": "root",
+  "name": "eshop",
   "private": true,
   "workspaces": [
-    "eshop.api",
-    "eshop.web",
     "packages/*"
   ],
   "devDependencies": {
