@@ -1,8 +1,18 @@
 {
     "extends": "../../tsconfig.json",
     "compilerOptions": {
-        "outDir": "./lib"
+        "outDir": "./lib",
+        "composite": true,
+        "rootDir": "src"
     },
+    "references": [
+        {
+            "path": "../eshop.domain/tsconfig.json"
+        },
+        {
+            "path": "../eshop.application/tsconfig.json"
+        }
+    ],
     "include": [
         "./src/"
     ]
