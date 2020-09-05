@@ -1,6 +1,7 @@
 {
   "name": "eshop.domain",
   "version": "0.0.1",
+  "private": true,
   "description": "domain classes and objects for eshop",
   "keywords": [
     "domain"

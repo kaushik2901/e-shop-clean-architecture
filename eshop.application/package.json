@@ -1,6 +1,7 @@
 {
   "name": "eshop.application",
   "version": "0.0.1",
+  "private": true,
   "description": "core business logic for eshop",
   "keywords": [
     "application"

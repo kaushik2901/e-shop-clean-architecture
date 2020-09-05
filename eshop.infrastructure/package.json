@@ -1,6 +1,7 @@
 {
   "name": "eshop.infrastructure",
   "version": "0.0.1",
+  "private": true,
   "description": "infrastructures for eshop",
   "keywords": [
     "infrastructure"

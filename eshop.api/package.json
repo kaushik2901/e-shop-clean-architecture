@@ -1,6 +1,7 @@
 {
   "name": "eshop.api",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "private": true,
   "description": "json api for eshop",
   "keywords": [
     "api"
