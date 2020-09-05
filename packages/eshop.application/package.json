@@ -1,6 +1,6 @@
 {
   "name": "eshop.application",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "core business logic for eshop",
   "keywords": [
     "application"
@@ -21,6 +21,7 @@
     "url": "git+https://github.com/kaushik2901/e-shop-clean-architecture.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {

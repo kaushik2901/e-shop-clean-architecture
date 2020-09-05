@@ -1,6 +1,6 @@
 {
   "name": "eshop.infrastructure",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "infrastructures for eshop",
   "keywords": [
     "infrastructure"
@@ -21,6 +21,7 @@
     "url": "git+https://github.com/kaushik2901/e-shop-clean-architecture.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
